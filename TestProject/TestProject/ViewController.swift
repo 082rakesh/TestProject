@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         print("viewDidLoad")
         
         print("viewWillAppear")
+        
+        print("viewWDidAppear")
+
 
         
     }
